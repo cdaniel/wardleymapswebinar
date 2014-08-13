@@ -1,4 +1,4 @@
-wardleymapswebinar
+Wardley Maps Technique Webinar
 ==================
 
 A structurized knowledge about strategic play. The technique of creating business maps was described by Simon Wardley and presented on his blog http://http://blog.gardeviance.org and licensed under CC-BY-SA.
